@@ -1,8 +1,13 @@
-1) Open your mobile / tab, go to play store / any store , search Power BI app, Install It.
+Power BI Service Sessions:
+
+1) Open your mobile or tab, go to play store / any store , search Power BI app, Install It.
+
 2) Open Power BI App, Choose Power BI Service and Enter the below credentials
 	User name: vinaytech_1912@vinaytechhouse.com
-	Password: vinaytech@2022
+	Password: vinaytech@2023
+
 3) Go to Apps, Identify your app (if not available, get apps and get the required app)
+
 		Browse yearly and monthly reports, try drill through from yearly report to monthly report
 		Note: As reports not optimized for mobile, they will display in landscape view effectively
 
